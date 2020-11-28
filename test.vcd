@@ -1,0 +1,106 @@
+$date
+	Sun Nov 29 01:00:36 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module stimulus $end
+$var wire 1 ! out $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var reg 1 % D $end
+$var reg 1 & E $end
+$var reg 1 ' F $end
+$scope module uut $end
+$var wire 1 " A $end
+$var wire 1 ( A_ $end
+$var wire 1 ) A_B $end
+$var wire 1 * A_B_ $end
+$var wire 1 + A_B_C_ $end
+$var wire 1 , A_B_C_D $end
+$var wire 1 - A_B_C_DE $end
+$var wire 1 . A_B_C_DEF $end
+$var wire 1 # B $end
+$var wire 1 / B_ $end
+$var wire 1 $ C $end
+$var wire 1 0 C_ $end
+$var wire 1 % D $end
+$var wire 1 & E $end
+$var wire 1 ' F $end
+$var wire 1 ! out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+10
+1/
+0.
+0-
+0,
+1+
+1*
+0)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#5000
+1'
+#10000
+0'
+1&
+#15000
+1'
+#20000
+1,
+0'
+0&
+1%
+#25000
+0,
+0+
+0*
+1!
+0/
+1)
+1'
+1#
+#30000
+0!
+0)
+0(
+1&
+0%
+1"
+#35000
+1*
+00
+1/
+1(
+0'
+0&
+1%
+1$
+0#
+0"
+#40000
+0*
+0/
+0(
+0%
+1#
+1"
+#45000
+1'
+1&
+1%

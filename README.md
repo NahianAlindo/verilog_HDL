@@ -1,0 +1,1 @@
+This repository contains the practice config or program files done using Verilog HDL.
